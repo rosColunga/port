@@ -1,5 +1,8 @@
 ## Sobre mi
 
+Soy una persona comprometida que busca contribuir en mejorar la sociedad por medio de comprender a los individuos. Quiero aprender todos los días al mismo tiempo que dar mi mejor esfuerzo por encontrar soluciones. 
+Al escoger UX elegí más que una especialidad, encontré mi pasión.
+
 ## Portafolio
 
 ## Contacto
