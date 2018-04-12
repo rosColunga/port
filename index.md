@@ -5,11 +5,6 @@ Al escoger UX elegí más que una especialidad, encontré mi pasión.
 
 ## Portafolio
 
-Nombre proy
-Descripción
-Link
-Foto
-
 ### Data Dashboard
 
 ![ddash-mockup](https://user-images.githubusercontent.com/32855963/38580086-ab15bdbe-3cce-11e8-9298-6a40c5bf3407.jpg)
